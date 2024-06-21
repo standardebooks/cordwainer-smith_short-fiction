@@ -29,12 +29,14 @@
 		<dc:title id="title">Short Fiction</dc:title>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
 		<dc:subject id="subject-2">Short stories</dc:subject>
+		<meta property="se:is-a-collection">true</meta>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85118629</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85121813</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Science Fiction</meta>
+		<meta property="se:subject">Shorts</meta>
+		<dc:description id="description">A collection of science fiction stories by Cordwainer Smith ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
