@@ -39,17 +39,18 @@
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of science fiction stories by Cordwainer Smith ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/cordwainer-smith"&gt;Cordwainer Smith&lt;/a&gt; was one pseudonym of Paul Myron Anthony Linebarger, a &lt;abbr&gt;U.S.&lt;/abbr&gt; Army officer, scholar on East Asian matters, classmate of L. Ron Hubbard, advisor and godson of Sun Yat-Sen, and an expert in psychological warfare. His identity remained a secret until shortly before his death.&lt;/p&gt;
+			&lt;p&gt;Though his writing was cut short by his relatively early death, his stories, mostly concerning a far future involving a millennia-spanning “Instrumentality of Mankind,” were nominated for two Hugos and a Nebula. The Cordwainer Smith Rediscovery Award, intended to shine a light on authors deserving of renewed attention, is named for him.&lt;/p&gt;
+			&lt;p&gt;Two of Smith’s first stories, “Scanners Live in Vain” and “The Game of Rat and Dragon,” both in the public domain due to nonrenewal, are republished here.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/29614</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/73886</dc:source>
 		<dc:source>https://archive.org/details/galaxymagazine-1955-10</dc:source>
 		<dc:source>https://archive.org/details/Fantasy_Book_v01n06_1950</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">Imported from Project Gutenberg etexts; errata have been sent upstream.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/cordwainer-smith_short-fiction</meta>
 		<dc:creator id="author">Cordwainer Smith</dc:creator>
 		<meta property="file-as" refines="#author">Smith, Cordwainer</meta>
