@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="scanners-live-in-vain.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>Speech from the same speaker spanning multiple &lt;p&gt; elements.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
