@@ -44,10 +44,14 @@
 			&lt;p&gt;Two of Smith’s first stories, “Scanners Live in Vain” and “The Game of Rat and Dragon,” both in the public domain due to nonrenewal, are republished here.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
-		<dc:source>https://www.gutenberg.org/ebooks/29614</dc:source>
+		<!--Scanners Live in Vain-->
 		<dc:source>https://www.gutenberg.org/ebooks/73886</dc:source>
-		<dc:source>https://archive.org/details/galaxymagazine-1955-10</dc:source>
+		<!--The Game of Rat and Dragon-->
+		<dc:source>https://www.gutenberg.org/ebooks/29614</dc:source>
+		<!--Scanners Live in Vain-->
 		<dc:source>https://archive.org/details/Fantasy_Book_v01n06_1950</dc:source>
+		<!--The Game of Rat and Dragon-->
+		<dc:source>https://archive.org/details/galaxymagazine-1955-10</dc:source>
 		<meta property="se:production-notes">Imported from Project Gutenberg etexts; errata have been sent upstream.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
