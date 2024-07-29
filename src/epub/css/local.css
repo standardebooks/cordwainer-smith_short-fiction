@@ -29,3 +29,6 @@ abbr[epub|type~="se:era"]{
 	font-variant: all-small-caps;
 }
 
+#war-no-81-q ol{
+	list-style-type: lower-alpha;
+}
