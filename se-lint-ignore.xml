@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="scanners-live-in-vain.xhtml">
 		<ignore code="t-003">
+			<line>276</line>
 			<reason>Speech from the same speaker spanning multiple &lt;p&gt; elements.</reason>
 		</ignore>
 	</file>
